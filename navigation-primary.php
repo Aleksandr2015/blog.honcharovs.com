@@ -7,7 +7,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="/">Умный дом</a>
+                    <a class="navbar-brand" href="/"><?php bloginfo('name');?></a>
                 </div>
 
                 <?php

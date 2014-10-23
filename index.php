@@ -18,30 +18,25 @@
     </head>
 
     <body>
-    
+            
+        <header class="blog-header">
         <!-- Navigation primary / Start -->
         <?php include(TEMPLATEPATH . '/navigation-primary.php'); ?>
         <!-- Navigation primary / End -->
-
-        <div class="container page-home">
-            <div class="row">
-                <div class="col-xs-12 ph-bg-cont">
-                    <!-- Pins -->
-                    <div class="ph-bg-pin sun-batteries" data-toggle="tooltip" data-placement="left" title="Солнечные батареи">Солнечные батареи</div>
-                    <div class="ph-bg-pin condicioner-1" data-toggle="tooltip" data-placement="left" title="Кондиционер">Кондиционер</div>
-                    <div class="ph-bg-pin condicioner-2" data-toggle="tooltip" data-placement="left" title="Кондиционер">Кондиционер</div>
-                    <div class="ph-bg-pin videocamera" data-toggle="tooltip" data-placement="left" title="Видеокамера">Видеокамера</div>
-                    <!-- Background image -->
-                    <img class="img-responsive" src="<?php echo get_template_directory_uri();?>/img/1170x820_page-home-bg.png" alt="">
-                </div>
-            </div>
-        </div>
+    
+        
+        </header>
+    
+        <section class="blog-main">
+            
+        </section>
+        
+        <footer class="blog-footer">
+            
+        </footer>
 
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-        <script src="<?php echo get_template_directory_uri();?>/js/bootstrap.js"></script>
-        <script>
-            $('.ph-bg-pin').tooltip();
-        </script>
+        <script src="<?php echo get_template_directory_uri();?>/js/bootstrap.js"></script>        
         <?php wp_footer(); ?>
     </body>
 </html>
