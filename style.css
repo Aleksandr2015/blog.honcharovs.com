@@ -1,0 +1,15 @@
+@charset "UTF-8";
+/*
+Theme Name: Умный дом
+Theme URI: http://www.pikdom.ru/
+Description: Тема для сайта pikdom.ru
+Version: 1.0
+Author: Honcharov Aleksandr
+Author URI: http://wd.honcharovs.com
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: pikdom
+*/
+
+@import url("css/bootstrap.css");
+@import url("css/bootstrap-theme.css");
