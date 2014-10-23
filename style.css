@@ -13,3 +13,30 @@ Text Domain: bhctemplate
 
 @import url("css/bootstrap.css");
 @import url("css/bootstrap-theme.css");
+
+
+/* Personal Blog Styles */
+
+/*
+* All site styles
+*/
+
+body {
+    font-family: "Open Sans",sans-serif;
+}
+
+/*
+* Header
+*/
+
+.blog-header {
+    height: 255px;
+    background: none repeat scroll 0 0 #212121;
+}
+
+.header-inner-wrapper {
+    border-bottom: 1px solid #ccc;
+    padding: 30px 0 0;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
