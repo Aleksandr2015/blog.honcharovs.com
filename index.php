@@ -30,10 +30,116 @@
                 <div class="col-xs-8">
                     <div class="row">
                         <div class="col-xs-4">
-                            <article>
-                                <img class="" src="http://placehold.it/100x100" alt="">
+                            <article class="-bhc-post">
+                                <div class="-bhc-post-img-wrap">
+                                    <img class="-bhc-post-img img-responsive" src="http://placehold.it/220x150" alt="">                                    
+                                </div>
                                 <div class="-bhc-post-title">
-                                    <h2>Заголовок поста</h2>
+                                    <h2><a href="">Заголовок поста</a></h2>
+                                    <span class="-bhc-post-timedate">Опубликовано: 1 января 2014</span>
+                                </div>
+                                <div class="-bhc-post-excerpt">
+                                    <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nibh libero, tempor eget nunc eget, dapibus lacinia augue. Praesent ut feugiat sapien. Mauris facilisis varius urna vel ullamcorper. Donec a ipsum magna. In scelerisque enim dolor, sit amet...</p>
+                                </div>
+                                <div class="-bhc-post-readmore">
+                                    <a class="-bhc-readmore" href="">
+                                        Читать полностью →
+                                    </a>
+                                </div>
+                            </article>                            
+                        </div>
+                        <div class="col-xs-4">
+                            <article class="-bhc-post">
+                                <div class="-bhc-post-img-wrap">
+                                    <img class="-bhc-post-img img-responsive" src="http://placehold.it/220x150" alt="">                                    
+                                </div>
+                                <div class="-bhc-post-title">
+                                    <h2><a href="">Заголовок поста</a></h2>
+                                    <span class="-bhc-post-timedate">Опубликовано: 1 января 2014</span>
+                                </div>
+                                <div class="-bhc-post-excerpt">
+                                    <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nibh libero, tempor eget nunc eget, dapibus lacinia augue. Praesent ut feugiat sapien. Mauris facilisis varius urna vel ullamcorper. Donec a ipsum magna. In scelerisque enim dolor, sit amet...</p>
+                                </div>
+                                <div class="-bhc-post-readmore">
+                                    <a class="-bhc-readmore" href="">
+                                        Читать полностью →
+                                    </a>
+                                </div>
+                            </article>                            
+                        </div>
+                        <div class="col-xs-4">
+                            <article class="-bhc-post">
+                                <div class="-bhc-post-img-wrap">
+                                    <img class="-bhc-post-img img-responsive" src="http://placehold.it/220x150" alt="">                                    
+                                </div>
+                                <div class="-bhc-post-title">
+                                    <h2><a href="">Заголовок поста</a></h2>
+                                    <span class="-bhc-post-timedate">Опубликовано: 1 января 2014</span>
+                                </div>
+                                <div class="-bhc-post-excerpt">
+                                    <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nibh libero, tempor eget nunc eget, dapibus lacinia augue. Praesent ut feugiat sapien. Mauris facilisis varius urna vel ullamcorper. Donec a ipsum magna. In scelerisque enim dolor, sit amet...</p>
+                                </div>
+                                <div class="-bhc-post-readmore">
+                                    <a class="-bhc-readmore" href="">
+                                        Читать полностью →
+                                    </a>
+                                </div>
+                            </article>                            
+                        </div>
+                        <div class="col-xs-4">
+                            <article class="-bhc-post">
+                                <div class="-bhc-post-img-wrap">
+                                    <img class="-bhc-post-img img-responsive" src="http://placehold.it/220x150" alt="">                                    
+                                </div>
+                                <div class="-bhc-post-title">
+                                    <h2><a href="">Заголовок поста</a></h2>
+                                    <span class="-bhc-post-timedate">Опубликовано: 1 января 2014</span>
+                                </div>
+                                <div class="-bhc-post-excerpt">
+                                    <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nibh libero, tempor eget nunc eget, dapibus lacinia augue. Praesent ut feugiat sapien. Mauris facilisis varius urna vel ullamcorper. Donec a ipsum magna. In scelerisque enim dolor, sit amet...</p>
+                                </div>
+                                <div class="-bhc-post-readmore">
+                                    <a class="-bhc-readmore" href="">
+                                        Читать полностью →
+                                    </a>
+                                </div>
+                            </article>                            
+                        </div>
+                        <div class="col-xs-4">
+                            <article class="-bhc-post">
+                                <div class="-bhc-post-img-wrap">
+                                    <img class="-bhc-post-img img-responsive" src="http://placehold.it/220x150" alt="">                                    
+                                </div>
+                                <div class="-bhc-post-title">
+                                    <h2><a href="">Заголовок поста</a></h2>
+                                    <span class="-bhc-post-timedate">Опубликовано: 1 января 2014</span>
+                                </div>
+                                <div class="-bhc-post-excerpt">
+                                    <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nibh libero, tempor eget nunc eget, dapibus lacinia augue. Praesent ut feugiat sapien. Mauris facilisis varius urna vel ullamcorper. Donec a ipsum magna. In scelerisque enim dolor, sit amet...</p>
+                                </div>
+                                <div class="-bhc-post-readmore">
+                                    <a class="-bhc-readmore" href="">
+                                        Читать полностью →
+                                    </a>
+                                </div>
+                            </article>                            
+                        </div>
+                        <div class="col-xs-4">
+                            <article class="-bhc-post">
+                                <div class="-bhc-post-img-wrap">
+                                    <img class="-bhc-post-img img-responsive" src="http://placehold.it/220x150" alt="">                                    
+                                </div>
+                                <div class="-bhc-post-title">
+                                    <h2><a href="">Заголовок поста</a></h2>
+                                    <span class="-bhc-post-timedate">Опубликовано: 1 января 2014</span>
+                                </div>
+                                <div class="-bhc-post-excerpt">
+                                    <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nibh libero, tempor eget nunc eget, dapibus lacinia augue. Praesent ut feugiat sapien. Mauris facilisis varius urna vel ullamcorper. Donec a ipsum magna. In scelerisque enim dolor, sit amet...</p>
+                                </div>
+                                <div class="-bhc-post-readmore">
+                                    <a class="-bhc-readmore" href="">
+                                        Читать полностью →
+                                    </a>
                                 </div>
                             </article>                            
                         </div>
