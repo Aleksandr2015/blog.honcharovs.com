@@ -18,19 +18,32 @@
 
     <body>
             
-        <header class="blog-header">
-            <div class="container">
-               <div class="header-inner-wrapper">
-                    <!-- Navigation primary / Start -->
-                    <?php include(TEMPLATEPATH . '/navigation-primary.php'); ?>
-                    <!-- Navigation primary / End -->
-                </div><!-- .header-inner-wrapper / end -->
-            </div><!-- .container / end -->
-    
-        
+        <header class="blog-header">                        
+            <!-- Navigation primary / Start -->
+            <?php include(TEMPLATEPATH . '/navigation-primary.php'); ?>
+            <!-- Navigation primary / End -->            
         </header><!-- .blog-header / end -->
     
-        <section class="blog-main">
+        <section class="[ container ] -blog-content">
+            <div class="row">
+                <!-- Main content -->
+                <div class="col-xs-8">
+                    <div class="row">
+                        <div class="col-xs-4">
+                            <article>
+                                <img class="" src="http://placehold.it/100x100" alt="">
+                                <div class="-bhc-post-title">
+                                    <h2>Заголовок поста</h2>
+                                </div>
+                            </article>                            
+                        </div>
+                    </div>
+                </div>
+                <!-- Aside content -->
+                <div class="col-xs-4">
+                    Sidebar content here
+                </div>
+            </div>
             
         </section><!-- .blog-main / end -->
         
