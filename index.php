@@ -32,7 +32,7 @@
                                     <span class="-bhc-post-timedate">Опубликовано: <?php echo get_the_date('d.m.Y'); ?></span>
                                 </div>
                                 <div class="-bhc-post-excerpt">
-                                    <p><?php do_excerpt(get_the_excerpt(), 15); ?></p>
+                                    <p><?php do_excerpt(get_the_excerpt(), 13); ?></p>
                                 </div>
                                 <div class="-bhc-post-readmore">
                                     <a class="-bhc-readmore" href="<?php the_permalink(); ?>">

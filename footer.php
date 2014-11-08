@@ -1,6 +1,6 @@
         <footer class="blog-footer">
             <div class="row">
-                <div class="col-xs-12 text-center" style="margin-top:20px;">                    
+                <div class="col-xs-12 text-center" style="margin-top:20px;margin-bottom:20px;">                    
                     © 2014 | Александр Гончаров | blog.honcharovs.com
                 </div>
             </div>

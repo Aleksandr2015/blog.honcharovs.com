@@ -20,6 +20,10 @@ Text Domain: bhctemplate
 
 */
 
+/**/
+#tBird {
+    z-index: 999999 !important;
+}
 
 /* Personal Blog Styles */
 

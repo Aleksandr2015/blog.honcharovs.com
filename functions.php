@@ -56,6 +56,7 @@ add_action('admin_print_styles', 'htm_change_editor_font');
 //Добавляем поддержку нескольких меню второй способ
 register_nav_menus(array(
     'primary' => 'Главное меню',      // Первое меню
+    'sidebar-rubrics' => 'Рубрики в сайдбаре',      // Рубрики в сайдбаре
 ));
 
 // Register Custom Navigation Walker
